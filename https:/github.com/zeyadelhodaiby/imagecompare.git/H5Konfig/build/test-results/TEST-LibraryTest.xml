@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-26T22:17:30" hostname="Zeyads-MacBook-Pro.local" time="73.282">
+  <properties/>
+  <testcase name="CON6911" classname="LibraryTest" time="73.282"/>
+  <system-out><![CDATA[Konfigurator
+false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
